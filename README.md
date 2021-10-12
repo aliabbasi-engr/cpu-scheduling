@@ -8,8 +8,8 @@ This project performs scheduling on a series of processes using several scheduli
  * Round Robin (RR)
  * Priority
 
-<img src="fsfc-sample.jpg" alt="drawing" width="700"/>
+<img src="fcfs-sample.jpg" alt="drawing" width="700"/>
 
-<img src="comparison.jpg" alt="drawing" width="700"/>
+<img src="comparison-tab.jpg" alt="drawing" width="700"/>
 
 
